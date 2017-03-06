@@ -1,0 +1,2 @@
+serviceClass: com.googlecode.gwtphonegap.client.log.shared.PhoneGapLogService
+path: A71599ED2C7DF62C363FBFE67B47386E.gwt.rpc
